@@ -3,3 +3,5 @@ Berksfile.lock
 tmp/
 .jamie/
 .jamie.local.yml
+.DS_Store
+*.orig
